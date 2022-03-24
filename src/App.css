@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Geneva, Helvetica, sans-serif;
+    font-size: 2pm;
+}
+
+.container {
+    margin: 25px;
+    width: 350px;
+    min-height: 150px;
+    height: auto;
+    outline: dashed 1px black;
+    background-color: #f0f8ff;
+}
